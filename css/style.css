@@ -5,3 +5,12 @@ body {
 .container {
     background-color: #24353F;
 }
+
+.container a {
+    text-decoration: none;
+}
+
+.row {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
